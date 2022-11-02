@@ -1,0 +1,7 @@
+https://www.youtube.com/watch?v=0oSsLbh_Kv4&ab_channel=freeCodeCamp.org
+
+install python3-django
+pip3 install django-ckeditor
+pip3 install Pillow
+
+django-admin startproject portfolio
